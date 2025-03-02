@@ -39,7 +39,7 @@ export default function Registration() {
               Ideal for church leaders registering groups of attendees together.
             </p>
             <a 
-              href="#" // Add actual document link
+              href="http://registerfsy4cc.netlify.app/" // Add actual document link
               className="bg-black text-white px-6 py-3 rounded-full inline-block hover:bg-gray-800 transition"
             >
               Register as Group
